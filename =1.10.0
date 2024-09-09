@@ -1,0 +1,2 @@
+Requirement already satisfied: scipy in /home/xyx/miniconda3/envs/orienter/lib/python3.10/site-packages (1.14.1)
+Requirement already satisfied: numpy<2.3,>=1.23.5 in /home/xyx/miniconda3/envs/orienter/lib/python3.10/site-packages (from scipy) (2.1.0)
